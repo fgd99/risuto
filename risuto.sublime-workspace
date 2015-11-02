@@ -1,0 +1,742 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"from_user",
+				"from_user_name"
+			],
+			[
+				"create",
+				"createdAt"
+			],
+			[
+				"crea",
+				"createdAt"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"gnipCoun",
+				"gnipCountryCode"
+			],
+			[
+				"autho",
+				"authorLink"
+			],
+			[
+				"bulk",
+				"bulkQuery"
+			],
+			[
+				"parse",
+				"parseFunction〔variable〕"
+			],
+			[
+				"obj",
+				"objectLib"
+			],
+			[
+				"m",
+				"myInterval"
+			],
+			[
+				"secto",
+				"sectors〔variable〕"
+			],
+			[
+				"sect",
+				"sectors"
+			],
+			[
+				"se",
+				"sectorsOutputPath"
+			],
+			[
+				"write",
+				"writeSectors〔function〕"
+			],
+			[
+				"instan",
+				"instances"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"current",
+				"currentNewstream"
+			],
+			[
+				"build",
+				"buildArticleUrl"
+			],
+			[
+				"output",
+				"outputSizes"
+			],
+			[
+				"action",
+				"actionResult"
+			],
+			[
+				"expo",
+				"exports〔variable〕"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"docs",
+				"docsOnly"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/node.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Kulture/ASP.NET.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/faitmain.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 210.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"binding",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Repository"
+			],
+			[
+				"linter",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"linter debug",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 350.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/export gnip.txt",
+		"/E/dev/projects/BISTwitterAPI/trunk/queue.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/views/searchDSATOM.jade",
+		"/E/dev/projects/BISTwitterAPI/trunk/routes/datasift.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/languages.json",
+		"/E/dev/projects/BISTwitterAPI/trunk/package.json",
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/countries.json",
+		"/E/dev/temp/webpacktest/webpack.config.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/README.md",
+		"/E/dev/projects/BISTwitterAPI/trunk/config/proxies.json",
+		"/E/dev/projects/BISTwitterAPI/trunk/config/config.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/lib/grabber.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/gnip/createRule.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/gnip/lib/rules.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/node_modules/country-data/data/countries.json",
+		"/E/dev/projects/BISTwitterAPI/trunk/gnip/lib/index.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/gnip/stream.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/node_modules/country-language/data.json",
+		"/E/dev/projects/BISTwitterAPI/trunk/lib/drivers/DriverFactory.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/lib/drivers/TwitterDriver.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/lib/drivers/InstagramDriver.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/lib/drivers/AbstractDriver.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/gnip_tweet.json",
+		"/E/dev/projects/BISTwitterAPI/trunk/forever_start.sh",
+		"/E/dev/projects/BISTwitterAPI/trunk/routes/twitter.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/lib/storage.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/forever_start_gnip_streams.sh",
+		"/E/dev/projects/BISTwitterAPI/trunk/gnipTest.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/gnip/config.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/BISTwitterAPI.sublime-project",
+		"/E/dev/projects/LNInsight/API/core/InsightES.js",
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/twitter_timeline_item.html",
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/twitter_search_item.html",
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/twitter_timline_item.html",
+		"/E/dev/projects/BISTwitterAPI/trunk/dev_resources/instagram_timeline.json",
+		"/C/Users/domingug/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/domingug/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/domingug/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/E/dev/projects/LNInsight/API/core/ESLib/Articles.js",
+		"/E/dev/projects/LNInsight/API/client/scripts/controllers/main.js",
+		"/E/dev/projects/LNInsight/API/client/views/main.html",
+		"/E/dev/projects/LNInsight/API/client/index.html",
+		"/E/dev/projects/LNInsight/API/config/config.js",
+		"/E/dev/projects/LNInsight/API/client/scripts/app.js",
+		"/E/dev/projects/LNInsight/API/server/api/models.js",
+		"/E/dev/projects/LNInsight/API/server/api/article/models.js",
+		"/E/dev/projects/LNInsight/API/core/InsightCore.js",
+		"/E/dev/projects/LNInsight/LNInsightApiClient/README.txt",
+		"/E/dev/projects/LNInsight/API/server/api/logs/models.js",
+		"/E/dev/projects/LNInsight/API/package.json",
+		"/E/dev/projects/LNInsight/API/core/middleware/validation.js",
+		"/E/dev/projects/LNInsight/API/utils/objectLib.js",
+		"/E/dev/projects/LNInsight/API/core/TSV.js",
+		"/E/dev/projects/LNInsight/API/test/server/api/InsightCore.test.js",
+		"/E/dev/GitHub/swagger-codegen/samples/lninsight/src/main/csharp/IO/Swagger/Model/Query.cs",
+		"/E/dev/GitHub/swagger-codegen/samples/lninsight/src/main/csharp/IO/Swagger/Api/UserApi.cs",
+		"/E/dev/GitHub/swagger-codegen/samples/lninsight/src/main/csharp/IO/Swagger/Model/DateQuery.cs",
+		"/E/dev/projects/LNInsight/API/core/received_alerts/1418391973575.eml",
+		"/E/dev/projects/LNInsight/API/server/api/user/models.js",
+		"/E/dev/projects/LNInsight/API/test/server/api/InsightDB.test.js",
+		"/E/dev/projects/LNInsight/API/core/ESLib/Tags.js",
+		"/E/dev/projects/LNInsight/API/core/ESLib/CompositeArticleId.js",
+		"/E/dev/projects/LNInsight/API/server/api/error.pdf",
+		"/E/dev/projects/LNInsight/API/server/api/article/resources.js",
+		"/E/dev/projects/LNInsight/API/core/InsightDB.js",
+		"/E/dev/projects/LNInsight/API/core/ACTExportDB.js",
+		"/E/dev/projects/LNInsight/API/config/sectors.json",
+		"/E/dev/projects/LNInsight/API/config/concepts.json",
+		"/E/dev/projects/LNInsight/API/forever_start.sh",
+		"/E/dev/projects/LNInsight/API/core/InsightAlert.js",
+		"/E/dev/projects/LNInsight/API/alert.js",
+		"/E/dev/projects/LNInsight/API/config/entityTypes.json",
+		"/E/dev/projects/LNInsight/API/bin/ACTExport.js",
+		"/E/dev/projects/LNInsight/API/client/images/data/newsstream/large/company_events.jpg",
+		"/E/dev/projects/LNInsight/SQL/lni.views.sql",
+		"/E/dev/projects/LNInsight/SQL/lni.sp.sql",
+		"/E/dev/projects/LNInsight/SQL/lni.upgrade.sql",
+		"/E/dev/projects/LNInsight/SQL/lni.structure.sql",
+		"/E/dev/projects/LNInsight/API/server/api/customnewsstream/resources.js",
+		"/E/dev/projects/LNInsight/API/server/api/newsstream/models.js",
+		"/C/Users/domingug/Downloads/HighCharts_Large.js/HighCharts_Large.js",
+		"/E/dev/projects/LNInsight/SQL/lni.schema.sql",
+		"/E/dev/projects/LNInsight/LNInsightWeb/LNInsightWeb/Controllers/AccountController.cs",
+		"/E/dev/projects/LNInsight/LNInsightManagement/LNI.Model/Services/UserService.cs",
+		"/E/dev/projects/LNInsight/LNInsightApiClient/ApiClient/Model/User.cs",
+		"/E/dev/projects/LNInsight/LNInsightWeb/LNInsightWeb.sln",
+		"/E/dev/projects/LNInsight/API/bin/conceptsgen.js",
+		"/E/dev/projects/LNInsight/Environments/data/multiple instances on a same server/README.md",
+		"/E/dev/projects/LNInsight/Environments/README.md",
+		"/E/Nim/install.txt",
+		"/E/dev/temp/jhipster/src/main/java/fr/lexisnexis/marcel/service/UserService.java",
+		"/E/dev/projects/LNInsight/API/core/middleware/encryption.js",
+		"/E/dev/projects/LNInsight/API/client/css/article.css",
+		"/E/dev/projects/LNInsight/API/server/views/article.jade",
+		"/E/dev/projects/LNInsight/API/server/api/resourcesOutput.js",
+		"/E/dev/projects/LNInsight/API/node_modules/wkhtmltopdf/index.js",
+		"/C/Users/domingug/AppData/Roaming/npm/nodemon.cmd",
+		"/E/dev/projects/SolutionContainer/application/FlexDashboard/html-template-mod/saveCSV.aspx",
+		"/E/dev/projects/LNInsight/API/core/middleware/authorization.js",
+		"/E/dev/projects/LNInsight/API/core/InsightAuth.js",
+		"/E/dev/projects/LNInsight/API/server/api/logs/resources.js",
+		"/E/dev/projects/LNInsight/API/server/api/newsstream/resources.js",
+		"/E/dev/projects/LNInsight/API/server/api/remark/resources.js",
+		"/E/dev/projects/LNInsight/API/client/scripts/controllers/authentication.js",
+		"/E/dev/projects/LNInsight/API/client/scripts/services/session.js",
+		"/E/dev/projects/LNInsight/API/server/api/user/resources.js",
+		"/E/dev/projects/LNInsight/API/server/api/repository/resources.js",
+		"/E/dev/projects/LNInsight/API/core/middleware/authentication.js",
+		"/C/Users/domingug/Downloads/lninsight_search_export(1).tsv",
+		"/E/dev/projects/LNInsight/API/server/api/resourcesLoader.js",
+		"/E/dev/projects/LNInsight/API/core/StreamingLib/Streams.js",
+		"/E/dev/projects/LNInsight/API/client/scripts/directives/search.js",
+		"/E/dev/projects/LNInsight/API/client/template/topResult.html",
+		"/E/dev/projects/LNInsight/API/client/template/searchFormField.html",
+		"/E/dev/projects/LNInsight/API/node_modules/elasticsearch-streams/lib/readable-search.js",
+		"/E/dev/projects/LNInsight/API/node_modules/elasticsearch-streams/index.js",
+		"/E/dev/projects/LNInsight/API/README.md",
+		"/E/dev/projects/LNInsight/API/server/api/resourcesHelper.js",
+		"/E/dev/projects/LNInsight/API/server/server.js",
+		"/E/dev/projects/LNInsight/API/bin/export.js",
+		"/E/dev/projects/LNInsight/API/bin/reindex.js",
+		"/E/dev/projects/LNInsight/API/node_modules/swagger-node-express/docs/main.html",
+		"/E/dev/projects/LNInsight/API/node_modules/truncating-stream/trunc.js",
+		"/E/dev/projects/LNInsight/API/token_a_tester.txt",
+		"/E/dev/projects/BISTwitterAPI/trunk/config/nginx.conf",
+		"/E/dev/projects/LNInsight/API/core/middleware/logging.js",
+		"/E/dev/projects/Monitor/SQL/structure.sql",
+		"/E/dev/projects/LNInsight/API/node_modules/elastic.js/tests/search_test.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\dev\\projects\\LNInsight\\API\\client\\scripts",
+			"E:\\dev\\projects\\LNInsight\\API\\client",
+			"E:\\dev\\projects\\LNInsight\\API\\core",
+			"E:\\dev\\projects\\LNInsight\\API",
+			"E:\\dev\\projects\\LNInsight\\API\\core",
+			"E:\\dev\\projects\\LNInsight\\API\\server",
+			"E:\\dev\\projects\\LNInsight\\API\\core",
+			"E:\\dev\\projects\\LNInsight\\API\\server",
+			"E:\\dev\\projects\\LNInsight\\API\\core",
+			"E:\\dev\\projects\\LNInsight\\API\\server\\api",
+			"E:\\dev\\projects\\LNInsight\\API\\node_modules\\pdfkit",
+			"E:\\dev\\projects\\LNInsight\\API\\server",
+			"E:\\dev\\projects\\LNInsight\\API\\core"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"maximumElapsedConsultation",
+			"countries",
+			"languages",
+			"\"",
+			"like",
+			"dutch",
+			"chi",
+			"languages",
+			"languagesCodes",
+			"emit",
+			"index",
+			"sort",
+			"https",
+			"request",
+			"proxy",
+			"reques",
+			"debug",
+			"https.",
+			"search(",
+			"created",
+			"date",
+			"created_at",
+			"date",
+			".log",
+			"country",
+			"debug",
+			"else",
+			"tag",
+			"account-group",
+			"fullname",
+			"_timestamp",
+			"js-tweet-text",
+			".js-tweet-text",
+			"html",
+			"storage",
+			"nextRequestAndGrab",
+			"createQueryFilters",
+			"getDatesLimitation",
+			"createArticleSearchResult",
+			"created",
+			"date",
+			"published",
+			"buildArticleSearchQuery",
+			"createQueryFilters",
+			"getDatesLimitation",
+			"'to';",
+			"limitat",
+			"compareTo",
+			"source",
+			"end",
+			"getDatesLimitation",
+			"ARTICLE_DATES_TYPES",
+			"created",
+			"getResultsForNewsStream",
+			"getNewsStreamsResults",
+			"created",
+			"updated",
+			"published",
+			".from",
+			"searchInterval",
+			"DateRange",
+			"cron",
+			"validISO8601DatePattern",
+			".from",
+			"dateRange",
+			"DateRange",
+			"validISO8601DatePattern",
+			"console",
+			"consol",
+			"articlecount",
+			"articlescount",
+			"newsstreamMapFromDB",
+			"setusersetting",
+			"externId",
+			"projectId",
+			"project",
+			"ProjectUser",
+			"query",
+			"createCustomNewsStream",
+			"query",
+			"createQueryFilters",
+			"timeline",
+			"concept",
+			"concepts",
+			"outputPath",
+			"act",
+			".HasValue",
+			"Model.IdChild.HasValue ? Model.IdChild.Value : 0",
+			"Model.IdNewsStream.HasValue ? Model.IdNewsStream.Value : 0",
+			"must",
+			"ArticleSearchResult",
+			"cheerio",
+			"width",
+			"articleGet",
+			"cheerio",
+			"role",
+			"currentOutputSize",
+			"currentNewstream",
+			"currentUser",
+			"username",
+			"currentUser",
+			"username",
+			"isLogged",
+			"console",
+			"ModalSaveSearchCtrl",
+			"currentOutputSize",
+			"itemsPerPage",
+			"currentOrigin",
+			"currentType",
+			"default",
+			"DEF",
+			"created",
+			"pub",
+			"moment",
+			"range",
+			"fixed",
+			"timezone",
+			"bom",
+			"denied",
+			"litiga",
+			"roles",
+			"img",
+			"jade",
+			"type",
+			"bom",
+			"ES_HEAP_SIZE",
+			"java_opts",
+			"ES_JAVA_OPTS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\"",
+			"",
+			"Model.IdChild ?? 0",
+			"Model.IdNewsStream.HasValue ?? 0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 158.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "risuto.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"queue",
+				"queue.js"
+			],
+			[
+				"create",
+				"gnip\\createRule.js"
+			],
+			[
+				"grabb",
+				"lib\\grabber.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"insight",
+				"API\\core\\InsightCore.js"
+			],
+			[
+				"config",
+				"API\\config\\config.js"
+			],
+			[
+				"insightes",
+				"API\\core\\InsightES.js"
+			],
+			[
+				"insightdb",
+				"API\\core\\InsightDB.js"
+			],
+			[
+				"encry",
+				"API\\core\\middleware\\encryption.js"
+			],
+			[
+				"insi",
+				"API\\core\\InsightCore.js"
+			],
+			[
+				"tsv",
+				"API\\core\\TSV.js"
+			],
+			[
+				"str",
+				"API\\core\\StreamingLib\\Streams.js"
+			],
+			[
+				"output",
+				"API\\server\\api\\resourcesOutput.js"
+			],
+			[
+				"resourceshel",
+				"API\\server\\api\\resourcesHelper.js"
+			],
+			[
+				"read",
+				"API\\README.md"
+			],
+			[
+				"trunc.",
+				"API\\node_modules\\truncating-stream\\trunc.js"
+			],
+			[
+				"packa",
+				"API\\package.json"
+			],
+			[
+				"stream",
+				"API\\core\\StreamingLib\\Streams.js"
+			],
+			[
+				"export",
+				"API\\bin\\export.js"
+			],
+			[
+				"insightcore",
+				"API\\core\\InsightCore.js"
+			],
+			[
+				"strea",
+				"API\\core\\StreamingLib\\Streams.js"
+			],
+			[
+				"forever",
+				"API\\forever_start.sh"
+			],
+			[
+				"elas",
+				"Environments\\data\\elasticsearch"
+			],
+			[
+				"rea",
+				"Environments\\README.md"
+			],
+			[
+				"ine",
+				"API\\core\\InsightES.js"
+			],
+			[
+				"resources",
+				"API\\server\\api\\customnewsstream\\resources.js"
+			],
+			[
+				"indic",
+				"API\\config\\indice.json"
+			],
+			[
+				"model",
+				"API\\server\\api\\article\\models.js"
+			],
+			[
+				"reindex",
+				"API\\bin\\reindex.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
